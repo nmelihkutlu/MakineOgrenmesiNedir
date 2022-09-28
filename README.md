@@ -20,7 +20,7 @@ Makine öğrenmesi için temelde 3 farklı yöntem bulunuyor. Supervised (Gözet
 
 • Reinforcement (Takviyeli) Öğrenme Yöntemi  Yarı gözetimli öğrenme yöntemi olarak da bilinen takviyeli öğrenme yöntemi, bahsettiğimiz iki öğrenme yönteminin ortasında bir seçenek sunar. Burada asıl amaç makinenin bir konu üzerine çevreden geri bildirim alması ve bu geri bildirimleri maksimuma çıkartmaya eğilimli olmasıdır. Gözetimli öğrenme algoritmalarını daha kapsamlı hale getirmek için kullanılabilir.   
 
-##Makine Öğrenmesi Hangi Alanlarda Kullanılır?   
+## Makine Öğrenmesi Hangi Alanlarda Kullanılır?   
 
 Makine öğrenmesi oldukça geniş bir kullanım alanını kapsadığı gibi gelecekte de yerinin büyük olacağı düşünülüyor.  
 
@@ -36,14 +36,16 @@ Makine öğrenmesi oldukça geniş bir kullanım alanını kapsadığı gibi gel
 
 • Hastalıkların Teşhisi  Hastalıkların teşhis aşaması sonuçlar açısından oldukça önemli bir evredir. Ancak günümüzde bir doktor başına düşen hasta sayısını incelediğimizde insan faktörünün hastalık teşhisi açısından olumsuz etkileri olabileceği düşünülmesi gereken konudur. Çin’de bu konu üzerinde geliştirilen algoritmalar sayesinde artık makineler hastalıkların teşhisi için kullanılabiliyor. 1,4 milyar kişi için yeterli sayıda radyolog bulunamadığından dolayı bir algoritma geliştirildi. Kişinin verilerine bakılarak hangi hastalıklara sahip olabileceği doktor kontrolüne sunuluyor. Bu sayede insan hata faktörü büyük bir oranda ortadan kalkmış oluyor ve kişiler hastalıkların doğru tespitiyle doğru tedavi görmeleri sağlanıyor. Yanlış teşhis kaynaklı ölümlerin de büyük miktarda önüne geçilebiliyor.
 
-##Makine Öğrenmesinin Geleceği
+## Makine Öğrenmesinin Geleceği
 
 Makine öğrenmesi algoritmalarında, makineler kendilerini geliştirebilecek şekilde tasarlanıyor. Bu durum sayesinde makine öğrenmesi kavramının hangi noktalara gelebileceği büyük bir tartışma konusu haline geliyor. Elon Musk ve Mark Zuckerberg arasındaki bir diyalogda iki taraf farklı fikirleri savunuyordu. Elon Musk yapay zeka ve makine öğrenmesi uygulamalarının gelecekte insanlar için bir tehlike oluşturabileceğini düşünüyor. İnsan gücünü azaltarak işsizliğin ortaya çıkabileceğini ortaya attı. Mark Zuckerberg ise bu durumun insanlara katkı sağlayabileceğini savunuyor. Yapay zeka uygulamalarının kontrol edilmesi gerektiğinden dolayı bu uygulamalar geliştikçe insanların daha fazla istihdam alanı sağlayabileceğini düşündüğünü belirtti. Bakım, onarım, geliştirme gibi faaliyetler için insana her zaman ihtiyaç duyulacağını düşünüyor. Geçmişte tahmin edemeyeceğimiz noktalara ulaşan yapay zeka ve makine öğrenmesi uygulamaları her geçen gün gelişim göstermeye devam ediyor.   
 
-##Derin Öğrenme (Deep Learning) Nedir?   
+## Derin Öğrenme (Deep Learning) Nedir?   
 
 Derin öğrenme (deep learning), makinelerin algoritmalardan elde ettiği veriler ışında sebep – sonuç ilişkileri kurması ve buradan kullanıcılar için en iyi çıkarımları yapmasını sağlar. Makine öğrenmesinin bir alt kümesi olan derin öğrenme, insan beynin ilham alarak ortaya çıkartılmış ve bu sayede de makine için yapay sinir ağları oluşturulmuştur. İnsanlar bir olaydan bazı tecrübeler edinirler ve bir daha aynı olayla karşılaştıklarında daha profesyonel bir şekilde davranabilirler. Derin öğrenmede de aynı şekilde bir olay öğrenilir ve aynı olay ile yeniden karşılaşıldığında makine daha iyi sonuçlar ortaya çıkartabilir. Derin öğrenmenin tam anlamıyla işlevini yerine getirebilmesi için çok fazla veriye ihtiyacı vardır. Günümüzde artan veri sayısı ile derin öğrenme çok daha iyi bir şekilde çalışabiliyor. İlerleyen zamanlarda üretilen veriler sayesinde derin öğrenmenin çok daha başka bir boyut kazanacağı düşünülüyor.   
 
-##Derin Öğrenme Hangi Alanlarda Kullanılabiliyor?   
+## Derin Öğrenme Hangi Alanlarda Kullanılabiliyor?   
 
 Derin öğrenme, makinelerin karmaşık problemleri çözebilmesidir. Bu bağlamda ihtiyaç duyulan birçok alana entegre edilebilir. Örneğin hepimizin sıklıkla kullandığı translate uygulamalarının arkasında derin öğrenme yatıyor. E – Ticaret uygulamalarında kullanılan online konuşma botları da derin öğrenme için güzel bir örnektir. Sizlerden aldığı veriyle çözümler üreterek en iyi şekilde karşınıza çıkartır.
+
+https://www.netser.com.tr/tr/blog/makine-ogrenmesi
