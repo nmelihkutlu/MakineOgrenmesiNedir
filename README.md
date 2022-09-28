@@ -1,0 +1,2 @@
+# MakineOgrenmesiNedir
+Makine Öğrenmesi Nedir 
